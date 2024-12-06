@@ -1,4 +1,5 @@
-liquid_time_constant_networks/experiments_with_ltcs/data/
+liquid_time_constant_networks/
+ncps/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
