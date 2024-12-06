@@ -1,6 +1,6 @@
 # Liquid Time-Constant LNN Implementation from scratch
 
-This repository contains a tutorial for implementation of Liquid Time-Constant Neural Networks (LTC-LNNs) using PyTorch from scratch. 
+This repository contains a tutorial for implementation of Liquid Time-Constant Neural Networks (LTC-LNNs) using PyTorch from scratch.
 
 The implementation is based on the concept of Liquid Time-Constant Networks, which are a type of continuous-time recurrent neural network.
 
@@ -21,8 +21,8 @@ pip install torch numpy matplotlib
 ```
 
 ## Files
+
 - **LNN_LTC_Tutorial_Eng.ipynb**: An english version of the tutorial
-- **LNN_LTC_Tutorial_Rus.ipynb**: A russian version of the tutorial
 
 ## Acknowledgements
 
